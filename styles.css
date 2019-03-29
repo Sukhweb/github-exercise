@@ -16,6 +16,11 @@
         margin: 0;
         padding: 0;
     }
+body {
+  font-family:Arial;
+  font-size:13px;
+  color:blue;
+  }
 
 img#bannerImage {
   max-width:100%;
